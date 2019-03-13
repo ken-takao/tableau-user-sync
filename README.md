@@ -1,2 +1,4 @@
 # tableau-user-sync
-user sync from tableau server
+Tableau Serverのユーザー情報をGoogle Spreadsheetで管理するためのスクリプトです。
+AWS Lambdaで動作確認しています。
+
